@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+         SANDBOX - Another Astro Channel. This repository is for testing
+         update packages only. It is not intended for public use and its
+         contents may be broken or removed at any time.
+      </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9:1.9.9">
+      <package fileName="CLAHE-124-20260730.tar.gz"
+               sha1="c6295a0bb9d57c900da316b8cc3bdf684d013d62"
+               type="script"
+               releaseDate="20260730">
+         <title>
+            CLAHE 1.24 (sandbox test)
+         </title>
+         <description>
+            <p>
+               Test package. Installs the CLAHE script under
+               Script &gt; Utilities &gt; CLAHE.
+            </p>
+            <p>
+               Copyright (c) 2026 Bill Blanshan.
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>
