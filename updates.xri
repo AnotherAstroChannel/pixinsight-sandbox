@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+         SANDBOX - Another Astro Channel. This repository is for testing
+         update packages only. It is not intended for public use and its
+         contents may be broken or removed at any time.
+      </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9:1.9.9">
+      <package fileName="ZoneContrast-123-20260730.tar.gz"
+               sha1="8bd4d5a86625c4c229c239f29fa69c2baad244a3"
+               type="script"
+               releaseDate="20260730">
+         <title>
+            ZoneContrast 1.23 (sandbox test)
+         </title>
+         <description>
+            <p>
+               Test package. Installs the ZoneContrast script under
+               Script &gt; Utilities &gt; ZoneContrast.
+            </p>
+            <p>
+               Copyright (c) 2026 Bill Blanshan.
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>
