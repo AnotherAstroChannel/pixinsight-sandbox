@@ -8,12 +8,12 @@
       </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="ZoneContrast-123-20260730.tar.gz"
-               sha1="8bd4d5a86625c4c229c239f29fa69c2baad244a3"
+      <package fileName="ZoneContrast-124-20260730.tar.gz"
+               sha1="b7b9f78f3d8d229b4479aa305a703d82e945d31f"
                type="script"
                releaseDate="20260730">
          <title>
-            ZoneContrast 1.23 (sandbox test)
+            ZoneContrast 1.24 (sandbox test)
          </title>
          <description>
             <p>
