@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+         SANDBOX - Another Astro Channel. This repository is for testing update
+         packages only. It is not intended for public use and its contents may
+         be broken or removed at any time.
+      </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9:1.9.9">
+      <package fileName="AnotherAstroChannel-20260805.tar.gz"
+               sha1="2a88cfec39f3896611452f32d2044a55b996bea6"
+               type="script"
+               releaseDate="20260805">
+         <title>
+            Another Astro Channel scripts (sandbox test)
+         </title>
+         <description>
+            <p>
+               Installs SimpleStretch 1.24, CLAHE 1.46, ZoneContrast 1.45, Saturation 1.62, Neutralize 1.29, BlemishRemover 1.15, UnsharpMaskPro 1.92 under Script &gt; Another Astro Channel.
+            </p>
+            <p>
+               Copyright (c) 2026 Bill Blanshan.
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>
