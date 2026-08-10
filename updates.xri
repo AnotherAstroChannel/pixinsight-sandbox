@@ -4,10 +4,10 @@
       <p>SANDBOX - testing only. Not intended for public use. Contents may be broken or removed at any time.</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="AnotherAstroChannel-20260809.tar.gz" sha1="8efe3578ca62a0492f455362efca342be6c4744f" type="script" releaseDate="20260809">
+      <package fileName="AnotherAstroChannel-20260809.tar.gz" sha1="f6b5390b03d31df79ddc9ea33db1a3729ef55fdb" type="script" releaseDate="20260809">
          <title>Another Astro Channel scripts 20260809</title>
          <description>
-            <p>Installs BlemishRemover 1.26, CLAHE 1.54, Deconvolution 0.15, Neutralize 1.37, Saturation 1.70, SimpleStretch 1.32, StarMask 0.37, UnsharpMaskPro 2.03, ZoneContrast 1.53 under Script &gt; Another Astro Channel.</p>
+            <p>Installs BlemishRemover 1.27, CLAHE 1.55, Deconvolution 0.16, Neutralize 1.38, Saturation 1.71, SimpleStretch 1.33, StarMask 0.38, UnsharpMaskPro 2.04, ZoneContrast 1.54 under Script &gt; Another Astro Channel.</p>
          </description>
       </package>
    </platform>
