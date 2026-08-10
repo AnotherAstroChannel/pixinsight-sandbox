@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <xri version="1.0">
    <description>
-      <p>SANDBOX - testing only. Not intended for public use. Contents may be broken or removed at any time. Another Astro Channel image processing scripts for PixInsight.</p>
+      <p>SANDBOX - testing only. Not intended for public use. Contents may be broken or removed at any time.</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="AnotherAstroChannel-20260809.tar.gz" sha1="155cfff88dcad50a77667197e75a6baf948a1365" type="script" releaseDate="20260809">
+      <package fileName="AnotherAstroChannel-20260809.tar.gz" sha1="8efe3578ca62a0492f455362efca342be6c4744f" type="script" releaseDate="20260809">
          <title>Another Astro Channel scripts 20260809</title>
          <description>
-            <p>Installs BlemishRemover 1.23, CLAHE 1.51, Deconvolution 0.10, Neutralize 1.34, Saturation 1.67, SimpleStretch 1.29, StarMask 0.33, UnsharpMaskPro 1.98, ZoneContrast 1.50 under Script &gt; Another Astro Channel.</p>
+            <p>Installs BlemishRemover 1.26, CLAHE 1.54, Deconvolution 0.15, Neutralize 1.37, Saturation 1.70, SimpleStretch 1.32, StarMask 0.37, UnsharpMaskPro 2.03, ZoneContrast 1.53 under Script &gt; Another Astro Channel.</p>
          </description>
       </package>
    </platform>
