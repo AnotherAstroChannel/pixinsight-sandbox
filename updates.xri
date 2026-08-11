@@ -4,10 +4,10 @@
       <p>Another Astro Channel image processing scripts for PixInsight.</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="AnotherAstroChannel-20260811-1300.tar.gz" sha1="9937518f38e1c0bb30c288d7abea11bb37ca389e" type="script" releaseDate="20260811">
+      <package fileName="AnotherAstroChannel-20260811-1416.tar.gz" sha1="d54ef8ec47f058745f39bcfe8edc777a07c124fc" type="script" releaseDate="20260811">
          <title>Another Astro Channel</title>
          <description>
-            <p>Installs BlemishRemover 1.40, CLAHE 1.68, Deconvolution 1.00, Neutralize 1.53, Saturation 1.84, SimpleStretch 1.46, StarMask 1.00, UnsharpMaskPro 2.17, ZoneContrast 1.67 under Script &gt; Another Astro Channel.</p>
+            <p>Installs BlemishRemover 1.40, CLAHE 1.68, Deconvolution 1.01, Neutralize 1.53, Saturation 1.84, SimpleStretch 1.46, StarMask 1.00, UnsharpMaskPro 2.19, ZoneContrast 1.67 under Script &gt; Another Astro Channel.</p>
          </description>
       </package>
    </platform>
