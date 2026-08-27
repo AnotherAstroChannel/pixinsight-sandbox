@@ -4,11 +4,21 @@
       <p>SANDBOX - testing only. Not intended for public use. Contents may be broken or removed at any time.</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="AnotherAstroChannel-20260811-2132.tar.gz" sha1="7d1f4fb0991a7a89ec23790a43d86bb6940cc493" type="script" releaseDate="20260811">
-         <title>Another Astro Channel</title>
+      <package fileName="AnotherAstroChannel-20260827-1107.tar.gz" sha1="81af0bf8ce3152778c3f408782bb22bda7debad7" type="script" releaseDate="20260827">
+         <title>AnotherAstroChannel</title>
          <description>
-            <p>Installs BlemishRemover 1.47, CLAHE 1.74, Deconvolution 1.09, Neutralize 1.60, SCNRPro 1.09, Saturation 1.90, SimpleStretch 1.52, StarMask 1.08, UnsharpMaskPro 2.27, ZoneContrast 1.73 under Script &gt; Another Astro Channel.</p>
+            <p>Installs BlemishRemover 1.59, CLAHE 1.80, Deconvolution 1.46, NarrowbandNormalizationV2 2.22, Neutralize 1.65, SCNRPro 1.45, Saturation 1.95, SimpleStretch 1.58, StarMask 2.01, UnsharpMaskPro 2.64, ZoneContrast 1.79 under Script &gt; AnotherAstroChannel.</p>
          </description>
+         <remove>src/scripts/AnotherAstroChannel/BlemishRemover/README.md</remove>
+         <remove>src/scripts/AnotherAstroChannel/CLAHE/README.md</remove>
+         <remove>src/scripts/AnotherAstroChannel/Deconvolution/README.md</remove>
+         <remove>src/scripts/AnotherAstroChannel/Neutralize/README.md</remove>
+         <remove>src/scripts/AnotherAstroChannel/SCNRPro/README.md</remove>
+         <remove>src/scripts/AnotherAstroChannel/Saturation/README.md</remove>
+         <remove>src/scripts/AnotherAstroChannel/SimpleStretch/README.md</remove>
+         <remove>src/scripts/AnotherAstroChannel/StarMask/README.md</remove>
+         <remove>src/scripts/AnotherAstroChannel/UnsharpMaskPro/README.md</remove>
+         <remove>src/scripts/AnotherAstroChannel/ZoneContrast/README.md</remove>
       </package>
    </platform>
 </xri>
