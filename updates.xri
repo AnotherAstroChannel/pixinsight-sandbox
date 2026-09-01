@@ -4,18 +4,13 @@
       <p>SANDBOX - testing only. Not intended for public use. Contents may be broken or removed at any time.</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="AnotherAstroChannel-20260901-1301.tar.gz" sha1="1ef995be83d2f0ee9032d6d321fa5e07c9228dfc" type="script" releaseDate="20260901">
+      <package fileName="AnotherAstroChannel-20260901-1434.tar.gz" sha1="9d6c0be7a9813fb74bf04f361555259a1bcc75a2" type="script" releaseDate="20260901">
          <title>AnotherAstroChannel</title>
          <remove>
-            rsc/icons/script/CLAHE/,
-            rsc/icons/script/ZoneContrast/,
-            src/scripts/AnotherAstroChannel/CLAHE/,
-            src/scripts/AnotherAstroChannel/SCNRPro/lib/StretchCurve.js,
-            src/scripts/AnotherAstroChannel/SHOColorization/lib/StretchCurve.js,
-            src/scripts/AnotherAstroChannel/ZoneContrast/
+            src/scripts/AnotherAstroChannel/NarrowbandNormalizationV2/lib/StretchCurve.js
          </remove>
          <description>
-            <p>Installs BlemishRemover 1.59, ContrastCLAHE 1.82, ContrastZone 1.81, Deconvolution 1.47, NarrowbandNormalizationV2 2.22, Neutralize 1.65, SCNRPro 1.48, SHOColorization 1.16, Saturation 1.96, SimpleStretch 1.58, UnsharpMaskPro 2.65 under Script &gt; AnotherAstroChannel.</p>
+            <p>Installs BlemishRemover 1.59, ContrastCLAHE 1.82, ContrastZone 1.81, Deconvolution 1.47, NarrowbandNormalizationV2 2.24, Neutralize 1.65, SCNRPro 1.48, SHOColorization 1.17, Saturation 1.96, SimpleStretch 1.58, UnsharpMaskPro 2.65 under Script &gt; AnotherAstroChannel.</p>
          </description>
       </package>
    </platform>
