@@ -4,13 +4,13 @@
       <p>SANDBOX - testing only. Not intended for public use. Contents may be broken or removed at any time.</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="AnotherAstroChannel-20261016-1849.tar.gz" sha1="407f452f15f310190017d966ef8ceef2c9b25d32" type="script" releaseDate="20261016">
+      <package fileName="AnotherAstroChannel-20261016-2009.tar.gz" sha1="1713f9c10a9061a4ebcb22eb383ff9a9f8852de3" type="script" releaseDate="20261016">
          <title>AnotherAstroChannel</title>
          <remove>
             src/scripts/AnotherAstroChannel/NarrowbandNormalizationV2/lib/StretchCurve.js
          </remove>
          <description>
-            <p>Installs BlemishRemover 1.59, BlindPlateSolver 1.13, ContrastCLAHE 1.82, ContrastZone 1.81, Deconvolution 1.47, NarrowbandNormalizationV2 2.24, Neutralize 1.65, SCNRPro 1.48, SHOColorization 1.17, Saturation 1.96, SimpleStretch 1.58, UnsharpMaskPro 2.65 under Script &gt; AnotherAstroChannel.</p>
+            <p>Installs BlemishRemover 1.59, BlindPlateSolver 1.14, ContrastCLAHE 1.82, ContrastZone 1.81, Deconvolution 1.47, NarrowbandNormalizationV2 2.24, Neutralize 1.65, SCNRPro 1.48, SHOColorization 1.17, Saturation 1.96, SimpleStretch 1.58, UnsharpMaskPro 2.65 under Script &gt; AnotherAstroChannel.</p>
          </description>
       </package>
    </platform>
